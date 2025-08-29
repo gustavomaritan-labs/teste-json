@@ -12,7 +12,7 @@
         "LoadSegundos": 33,
         "InsertSegundos": 13,
         "DeleteSegundos": 12,
-        "MenssagemErro": "",
+        "MenssagemErro": ""
     },
     {
         "id": 2,
@@ -27,7 +27,7 @@
         "LoadSegundos": 33,
         "InsertSegundos": 13,
         "DeleteSegundos": 12,
-        "MenssagemErro": "indepotencia",
+        "MenssagemErro": "indepotencia"
     },
     {
         "id": 3,
