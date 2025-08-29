@@ -2,7 +2,7 @@
   "database_size": "43619.88 MB",
   "unallocated space": "25921.22 MB",
   "reserved": "3583840 KB",
-  "data": "2006344 KB",
+  "data": 10,
   "index_size": "1239136 KB",
   "unused": "338360 KB"
 }
