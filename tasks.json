@@ -42,6 +42,6 @@
         "LoadSegundos": 33,
         "InsertSegundos": 13,
         "DeleteSegundos": 12,
-        "MenssagemErro": "timeout",
+        "MenssagemErro": "timeout"
     }
 ]
