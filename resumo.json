@@ -1,0 +1,17 @@
+{
+  "DataInicio": "2025-08-29 18:33:20",
+  "DataFim": "2025-08-31 16:17:50",
+  "HorasTrabalhadas": 45.74,
+  "TotalRemessas": 6685691,
+  "ItensExcluidos": 109999122,
+  "ExcluidosPorHora": 2404878,
+  "TotalTask": 5518,
+  "TotalErros": 385,
+  "TotalAtivos": 15,
+  "RemessasPorTask": 1211,
+  "ExcluidosPorTask": 19934,
+  "ElegiveisPorTask_seg": 26,
+  "LoadPorTask_seg": 6,
+  "InsertPorTask_seg": 22,
+  "ExpurgoPorTask_seg": 31
+}
