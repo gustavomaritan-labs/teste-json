@@ -289,7 +289,7 @@
         "lastIdProcessed": 16313344,
         "dtCreated": "2025/08/31 14:56:35",
         "dtFinish": "2025/08/31 15:25:34",
-        "status": "done",
+        "status": "error",
         "RemessasCarregadas": 1681,
         "ItensDeletados": 38584,
         "ExecTotalSegundos": 1739,
@@ -297,6 +297,6 @@
         "LoadSegundos": 3,
         "InsertSegundos": 133,
         "DeleteSegundos": 163,
-        "MenssagemErro": ""
+        "MenssagemErro": "Outro tipo de erro"
     }
 ]
