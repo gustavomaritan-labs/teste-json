@@ -1,17 +1,41 @@
 {
-  "DataInicio": "2025-08-29 18:33:20",
-  "DataFim": "2025-08-31 16:17:50",
-  "HorasTrabalhadas": 45.74,
-  "TotalRemessas": 6685691,
-  "ItensExcluidos": 109999122,
-  "ExcluidosPorHora": 2404878,
-  "TotalTask": 5518,
-  "TotalErros": 385,
-  "TotalAtivos": 15,
-  "RemessasPorTask": 1211,
-  "ExcluidosPorTask": 19934,
-  "ElegiveisPorTask_seg": 26,
-  "LoadPorTask_seg": 6,
-  "InsertPorTask_seg": 22,
-  "ExpurgoPorTask_seg": 31
+  "resumoGeral": {
+    "totalRemessasExpurgadas": 2087771,
+    "ultimoRegistro": "2025-09-30T15:55:34.503",
+    "dataInicio": "2025-09-17T16:52:51.167"
+  },
+  "tempos": {
+    "tempoTotal": "24.96 h",
+    "tempoParado": "2.38 h",
+    "tempoAtivo": "22.57 h",
+    "tempoExpurgo": "22.56 h",
+    "tempoSemRegistro": "6.42 s",
+    "tempoComError": "19.73 s",
+    "ultimoRegistro": "2025-09-30T15:55:34.503"
+  },
+  "remessas": {
+    "RemessasExpurgadas": 198088,
+    "RemessasPorHora": 8776,
+    "ItensExpurgados": 1773513,
+    "ItensExpurgadosPorHora": 78578
+  },
+  "estatisticas": {
+    "total": 1726,
+    "ativas": 2,
+    "sucesso": 22,
+    "elegivelSeg": 0,
+    "enriquecimentoSeg": 0,
+    "insertSeg": 0,
+    "purgeSeg": 97,
+    "errors": 20
+  },
+  "detalhesExpurgo": {
+    "dtInicioExpurgo": "2025-09-17T16:52:51.167",
+    "totalRemessasInicio": 237497861,
+    "remessasP60": 142498716,
+    "remessasExpurgadas": 2087771,
+    "aExpurgar": 140410945,
+    "expugoPorHora": 8776,
+    "diasRestantes": 666
+  }
 }
